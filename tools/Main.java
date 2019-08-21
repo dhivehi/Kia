@@ -145,7 +145,7 @@ class kia {
         System.out.println("loading resources...");
     }
     private byte[] getData() throws IOException, FileNotFoundException {
-        FileInputStream inputStream = new FileInputStream("<full_path_to_where_jar_is>/adu5.bin");
+        FileInputStream inputStream = new FileInputStream("<full_path_to_where_jar_is>/adu.bin");
         ByteArrayOutputStream output = new ByteArrayOutputStream();
         byte[] buffer = new byte[4096];
         int n = 0;
