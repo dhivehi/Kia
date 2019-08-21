@@ -16,7 +16,7 @@ The audios were cropped samples from an english TTS. It doesnt sound natural but
 As long as adu.bin and index.txt is in same folder as kia.py you are good to go.    
 ```
 $python kia.py  
-enter thaana: <enter thaana here>
+enter thaana: ހެލޯ ދުނިޔެ
 ```
 
 ### Contributing
