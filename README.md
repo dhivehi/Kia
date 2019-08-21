@@ -21,6 +21,7 @@ enter thaana: ހެލޯ ދުނިޔެ
 
 ### Contributing
 It would probably be nice to have all these akuru+fili audio clips recorded by a Maldivian to get proper pronounciation.  
+commonly used words can be recorded as a single clip but it would be a nightmare to do so
 /dev branch has the resources and adu packer  
 
 ### Acknowledgements
