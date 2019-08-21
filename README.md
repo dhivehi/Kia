@@ -1,4 +1,4 @@
-### Kia v5.0
+### Kia
 Simple dhivehi TTS
 
 ### Overview
