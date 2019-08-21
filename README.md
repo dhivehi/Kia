@@ -2,9 +2,9 @@
 Simple dhivehi TTS
 
 ### Overview
-Dhivehi is probably the easiest language to make a TTS as each akuru + fili = a unique sound. It doesnt sound natural but its something  ¯\_(ツ)_/¯  
+Dhivehi is probably the easiest language to make a TTS as each akuru + fili = a unique sound.  
 So why not create all the possible audio for these combinations and combine them to make TTS?  
-Thats exactly what this does, the audios were cropped samples from an english TTS.  
+The audios were cropped samples from an english TTS. It doesnt sound natural but its something  ¯\_(ツ)_/¯  
 
 ### Prerequisites
 - Ubuntu 16+ [tested on 19.4]  
