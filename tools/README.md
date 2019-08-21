@@ -11,3 +11,4 @@ aduthah / <index><akuru> / <akuru><fili>
 compile it as kia.jar to make a standalone version of kia with a GUI  
 change line 79, 148, 162, 193 with the full path to where this file is located before compiling  
 keep adu.bin and header.bin in same folder when compiling.
+when running, input must be english letters. Type in keyboard as if typing in dhivehi, the letters will be used to translate it.
